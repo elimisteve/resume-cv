@@ -13,7 +13,7 @@
 * Digital security tools incl. Tails, SecureDrop, Qubes, PGP
 
 ## Positions
-* Advisory Board, Distrubited Denial of Secrets (DDOS)
+* Advisory Board, Distributed Denial of Secrets (DDOS)
 * Director of Research and board member, Lucy Parsons Labs
 
 ## Education
