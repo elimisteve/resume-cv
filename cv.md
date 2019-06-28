@@ -7,14 +7,14 @@
 * Reporter & researcher, Freedom of the Press Foundation
 * Researcher, Lucy Parsons Labs
 
-### Skills
+## Skills
 * FOIA and records databases (LexisNexis, PACER)
 * Languages and frameworks: Python, JavaScript (D3)
 * Digital security tools incl. Tails, SecureDrop, Qubes, PGP
 
-### Positions
+## Positions
 * Advisory Board, Distrubited Denial of Secrets (DDOS)
 * Director of Research and board member, Lucy Parsons Labs
 
-### Education
+## Education
 * Bachelor of Science, University of California, Berkeley
